@@ -13,6 +13,12 @@ Install
 composer install
 ~~~
 
+Db file
+------------
+~~~
+test_yii2.sql
+~~~
+
 
 DB SEED
 ------------
